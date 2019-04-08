@@ -33,4 +33,14 @@
 
 1. [GitHub Desktop](https://desktop.github.com/)
 2. [Sublime Merge](https://www.sublimemerge.com/)
+3. [GitHub](https://github.com/)
 
+## Visual
+
+1. [Whimsical](https://whimsical.co/)
+2. [inVision](https://www.invisionapp.com/)
+3. [Zeplin](https://zeplin.io/)
+
+## Package
+
+1. [Setapp](https://setapp.com/)
