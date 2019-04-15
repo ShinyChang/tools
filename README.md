@@ -6,7 +6,12 @@
 
 ## Screen Recorder
 
-1. [Gifox](https://gifox.io/)
+1. [Gifox](https://gifox.io/) - available on [Setapp]
+2. [CleanShot](https://getcleanshot.com/) - available on [Setapp]
+
+## Terminal
+
+1. [iTerm2](https://www.iterm2.com/)
 
 ## Editor
 
@@ -23,7 +28,7 @@
 
 ## Time Tracking
 
-1. [Timing](https://timingapp.com/)
+1. [Timing](https://timingapp.com/) - available on [Setapp]
 
 ## Task Management
 
@@ -33,7 +38,6 @@
 
 1. [GitHub Desktop](https://desktop.github.com/)
 2. [Sublime Merge](https://www.sublimemerge.com/)
-3. [GitHub](https://github.com/)
 
 ## Visual
 
@@ -41,6 +45,12 @@
 2. [inVision](https://www.invisionapp.com/)
 3. [Zeplin](https://zeplin.io/)
 
-## Package
+## VPN
 
-1. [Setapp](https://setapp.com/)
+1. [Shimo](https://www.shimovpn.com) - available on [Setapp]
+
+## Translation
+
+1. [Mete](https://www.matetranslate.com/) - available on [Setapp]
+
+[Setapp]: https://setapp.com/
