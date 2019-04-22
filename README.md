@@ -1,5 +1,13 @@
 # Tools
 
+## Meeting
+
+1. [Zoom](https://zoom.us/)
+
+## Communication
+
+1. [Slack](https://slack.com/)
+
 ## Accessibility
 
 1. [Spectacle](https://github.com/eczarny/spectacle/)
