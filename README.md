@@ -3,6 +3,7 @@
 ## Meeting
 
 1. [Zoom](https://zoom.us/)
+2. [Meet](https://meet.google.com/)
 
 ## Communication
 
