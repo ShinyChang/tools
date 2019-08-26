@@ -12,6 +12,7 @@
 ## Accessibility
 
 1. [Spectacle](https://github.com/eczarny/spectacle/)
+1. [Sip](https://sipapp.io/) - available on [Setapp]
 
 ## Screen Recorder
 
@@ -21,6 +22,7 @@
 ## Terminal
 
 1. [iTerm2](https://www.iterm2.com/)
+1. [Core Shell](https://coreshell.app/) - available on [Setapp]
 
 ## Editor
 
@@ -61,5 +63,10 @@
 ## Translation
 
 1. [Mete](https://www.matetranslate.com/) - available on [Setapp]
+
+## SQL Client
+
+1. [TablePlus](https://tableplus.com/) - available on [Setapp]
+1. [Robo 3T](https://robomongo.org/)
 
 [Setapp]: https://setapp.com/
