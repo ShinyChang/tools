@@ -13,6 +13,7 @@
 
 1. [Spectacle](https://github.com/eczarny/spectacle/)
 1. [Sip](https://sipapp.io/) - available on [Setapp]
+1. [PixelSnap](https://getpixelsnap.com/) - available on [Setapp]
 
 ## Screen Recorder
 
