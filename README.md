@@ -19,6 +19,7 @@
 
 1. [Gifox](https://gifox.io/) - available on [Setapp]
 2. [CleanShot](https://getcleanshot.com/) - available on [Setapp]
+3. [loom](https://www.loom.com/)
 
 ## Terminal
 
