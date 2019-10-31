@@ -89,4 +89,4 @@
 
     Grammar check
 
-[Setapp]: https://setapp.com/
+[Setapp]: https://go.setapp.com/invite/zhchang
