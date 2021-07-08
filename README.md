@@ -68,24 +68,27 @@
 1. [Robo 3T](https://robomongo.org/)
 
 ## Others
+1. [Rectangle](https://rectangleapp.com/) - supports M1 chip
+    
+    Window management (position / size)
 
-1. [Spectacle](https://github.com/eczarny/spectacle/)
+2. [Spectacle](https://github.com/eczarny/spectacle/)
 
     Window management (position / size)
 
-2. [Sip](https://sipapp.io/) - available on [Setapp]
+3. [Sip](https://sipapp.io/) - available on [Setapp]
 
     Color picker  
 
-3. [PixelSnap](https://getpixelsnap.com/) - available on [Setapp]
+4. [PixelSnap](https://getpixelsnap.com/) - available on [Setapp]
 
     Layout measuring tool
 
-4. [Mete](https://www.matetranslate.com/) - available on [Setapp]
+5. [Mete](https://www.matetranslate.com/) - available on [Setapp]
 
     Translation tool
     
-5. [Grammarly](https://www.grammarly.com/)
+6. [Grammarly](https://www.grammarly.com/)
 
     Grammar check
 
