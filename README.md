@@ -23,7 +23,7 @@
 
 - [Chrome](https://www.google.com/chrome/)
 - [Brave](https://brave.com/)
-- 
+
 ## Time Tracking
 
 - [Timing](https://timingapp.com/) - available on [Setapp]
@@ -31,7 +31,7 @@
 ## Task/Project Management
 
 - [JIRA](https://www.atlassian.com/software/jira)
-- [Trello](https://trello.com/)
+- [Trello](https://trello.com/) - [referral](https://trello.com/shinychangtw/recommend)
 
 ## Git Client
 
