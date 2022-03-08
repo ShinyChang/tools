@@ -64,6 +64,7 @@
 - [Rectangle](https://rectangleapp.com/)
 - [Sip](https://sipapp.io/) - available on [Setapp]
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - available on [Setapp]
+- [Bartender](https://www.macbartender.com/) - available on [Setapp]
 
 
 [Setapp]: https://go.setapp.com/invite/zhchang
