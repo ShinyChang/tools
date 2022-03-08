@@ -2,94 +2,68 @@
 
 ## Communication
 
-### Chat
-1. [Slack](https://slack.com/)
-
-### Video
-
-1. [Zoom](https://zoom.us/)
-2. [Meet](https://meet.google.com/)
+- [Gather](https://www.gather.town/)
+- [Meet](https://meet.google.com/)
+- [Slack](https://slack.com/)
+- [Zoom](https://zoom.us/)
 
 ## Screen Recorder
 
-### Image
-
-1. [Gifox](https://gifox.io/) - available on [Setapp]
-2. [CleanShot](https://getcleanshot.com/) - available on [Setapp]
-
-### Video
-
-1. [loom](https://www.loom.com/)
+- [CleanShot](https://getcleanshot.com/) - available on [Setapp]
 
 ## Terminal
 
-1. [iTerm2](https://www.iterm2.com/)
-1. [Core Shell](https://coreshell.app/) - available on [Setapp]
+- [Terminus](https://packagecontrol.io/packages/Terminus) - Sublime Plugin
 
-## Editor/IDE
+## Editor
 
-1. [Sublime Text](https://www.sublimetext.com/)
-1. [VS Code](https://code.visualstudio.com/)
+- [Sublime Text](https://www.sublimetext.com/)
 
 ## Browser
 
-1. [Opera](https://www.opera.com/)
-2. [Chrome](https://www.google.com/chrome/)
-
+- [Chrome](https://www.google.com/chrome/)
+- [Brave](https://brave.com/)
+- 
 ## Time Tracking
 
-1. [Timing](https://timingapp.com/) - available on [Setapp]
+- [Timing](https://timingapp.com/) - available on [Setapp]
 
 ## Task/Project Management
 
-1. [Clubhouse](https://clubhouse.io/)
-1. [JIRA](https://www.atlassian.com/software/jira)
-1. [Trello](https://trello.com/)
-1. [Any.do](https://www.any.do/)
+- [JIRA](https://www.atlassian.com/software/jira)
+- [Trello](https://trello.com/)
 
 ## Git Client
 
-1. [GitHub Desktop](https://desktop.github.com/)
-2. [Sublime Merge](https://www.sublimemerge.com/)
+- [Sublime Merge](https://www.sublimemerge.com/)
 
 ## Visual Design Tool
 
-1. [Whimsical](https://whimsical.co/)
-2. [inVision](https://www.invisionapp.com/)
-3. [Zeplin](https://zeplin.io/)
+- [Figma](https://figma.com/)
+- [Miro](https://miro.com/)
+- [Whimsical](https://whimsical.co/)
 
 ## VPN
 
-1. [Shimo](https://www.shimovpn.com) - available on [Setapp]
+- [Shimo](https://www.shimovpn.com/) - available on [Setapp]
+
+## VNC
+
+- [Jump Desktop](https://jumpdesktop.com/) - available on [Setapp]
 
 ## SQL Client
 
-1. [TablePlus](https://tableplus.com/) - available on [Setapp]
-1. [Robo 3T](https://robomongo.org/)
+- [TablePlus](https://tableplus.com/) - available on [Setapp]
+- [Robo 3T](https://robomongo.org/)
 
-## Others
-1. [Rectangle](https://rectangleapp.com/) - supports M1 chip
-    
-    Window management (position / size)
+## Misc
 
-2. [Spectacle](https://github.com/eczarny/spectacle/)
+- [Fig](https://fig.io/)
+- [Krisp](https://krisp.ai/) - [referral](https://account.krisp.ai/ref/u/u6558f7ece)
+- [PixelSnap](https://getpixelsnap.com/) - available on [Setapp]
+- [Rectangle](https://rectangleapp.com/)
+- [Sip](https://sipapp.io/) - available on [Setapp]
+- [iStat Menus](https://bjango.com/mac/istatmenus/) - available on [Setapp]
 
-    Window management (position / size)
-
-3. [Sip](https://sipapp.io/) - available on [Setapp]
-
-    Color picker  
-
-4. [PixelSnap](https://getpixelsnap.com/) - available on [Setapp]
-
-    Layout measuring tool
-
-5. [Mete](https://www.matetranslate.com/) - available on [Setapp]
-
-    Translation tool
-    
-6. [Grammarly](https://www.grammarly.com/)
-
-    Grammar check
 
 [Setapp]: https://go.setapp.com/invite/zhchang
